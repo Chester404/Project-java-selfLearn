@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LectureTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-05T09:39:55" hostname="DESKTOP-ER24V91" time="0.005">
-  <properties/>
-  <testcase name="testGetHighestAverageGrade" classname="LectureTest" time="0.005"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
